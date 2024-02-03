@@ -38,6 +38,6 @@ The analysis is performed on the Starbucks Datathon dataset (`StarbucksDatathonF
 
 ## Author
 
-[Your Name]
+Aarav Purohit
 
 Feel free to explore the code and customize it for your needs!
